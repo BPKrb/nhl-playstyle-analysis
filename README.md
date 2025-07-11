@@ -16,3 +16,6 @@ It generates:
 1. Open NHLhitTrend2.m in MATLAB.
 2. Make sure 'HittingStats.xlsx' is in the same folder.
 3. Run the script to generate the visualizations.
+
+Example from 2014-15
+<img width="3456" height="2058" alt="1415" src="https://github.com/user-attachments/assets/f0ca756d-a9cc-4a88-afa7-a7bd60158de6" />
